@@ -1,0 +1,14 @@
+.eslintrc.js
+.eslintcache
+.prettierrc.js
+.github
+tsconfig.json
+yarn.lock
+src
+tests
+node_modules
+test.ts
+.DS_Store
+.prettierignore
+.prettierrc
+jest.config.js
